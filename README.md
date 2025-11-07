@@ -74,8 +74,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ialitaghizad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
----
-
-> _“Code like you’re right, test like you’re wrong.”_  
-> — Ali 
