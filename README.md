@@ -1,11 +1,13 @@
 <!-- Banner -->
 
 <h1 align="center">Hey there, I'm Ali 👋</h1>
-<h3 align="center">Frontend Developer | Building Enterprise Apps with a Smile 😄</h3>
+<h3 align="center">CS Student & Researcher | Frontend Developer | Building Enterprise Apps with a Smile 😄</h3>
 
 ---
 
 ### 🚀 About Me
+- Frontend engineer by profession  
+- Cryptography researcher by questionable life choices 😅
 - 💻 Building enterprise-scale web apps since forever (okay, not *forever*, but long enough 😅)
 - 🏢 Founder of **RADA (Rahyaft Ayandenegar Dade Afarin)** – creating smart, scalable organizational software  
 - 🧩 Worked on:
@@ -37,6 +39,9 @@
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
+### 🔭 Research Mode
+![Research Mode](https://img.shields.io/badge/Research%20Mode-ON-purple?style=for-the-badge)
+
 ---
 
 ### 🧩 Domain Expertise
@@ -56,6 +61,23 @@
 - ⚛️ Next.js & Micro-Frontend Architecture  
 - 🔍 Optimizing React Performance at scale  
 - 🧪 Testing (because bugs are loyal friends 🐛)
+
+---
+
+### 🎓 Side Quest: Crypto & Research Mode
+When I'm not building enterprise frontends,  
+I’m probably somewhere deep in a PDF like:
+
+> *"Post-Quantum Blockchain Using Hash-Based Non-Interactive Multi-Signature Schemes"*  
+> *(yeah, I know… sounds illegal)*
+
+Master's student — currently researching:
+- 🔐 Cryptography
+- ⚡ Zero-knowledge proofs (a.k.a. magic math for privacy)
+- 👾 Post-quantum blockchain (because someone has to protect us from future quantum robots)
+
+In short:  
+**Frontend by day, cryptography nerd by night.**
 
 ---
 
