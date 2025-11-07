@@ -1,14 +1,14 @@
 <!-- Banner -->
 
 <h1 align="center">Hey there, I'm Ali 👋</h1>
-<h3 align="center">CS Student & Researcher | Frontend Developer | Building Enterprise Apps with a Smile 😄</h3>
+<h3 align="center">CS Student & Researcher | Frontend Developer | Building Enterprise Apps with a Smile </h3>
 
 ---
 
 ### 🚀 About Me
 - Frontend engineer by profession  
-- Cryptography researcher by questionable life choices 😅
-- 💻 Building enterprise-scale web apps since forever (okay, not *forever*, but long enough 😅)
+- Cryptography researcher by questionable life choices
+- 💻 Building enterprise-scale web apps since forever (okay, not *forever*, but long enough)
 - 🏢 Founder of **RADA (Rahyaft Ayandenegar Dade Afarin)** – creating smart, scalable organizational software  
 - 🧩 Worked on:
   - **Avand** – corporate credit allocation system for *Bank Pasargad*  
