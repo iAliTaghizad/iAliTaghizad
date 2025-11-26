@@ -8,9 +8,9 @@
 ### 🚀 About Me
 - Frontend engineer by profession  
 - Cryptography researcher by questionable life choices
-- 💻 Building enterprise-scale web apps since forever (okay, not *forever*, but long enough)
-- 🏢 Founder of **RADA (Rahyaft Ayandenegar Dade Afarin)** – creating smart, scalable organizational software  
-- 🧩 Worked on:
+- Building enterprise-scale web apps since forever (okay, not *forever*, but long enough)
+- Founder of **RADA (Rahyaft Ayandenegar Dade Afarin)** – creating smart, scalable organizational software  
+- Worked on:
   - **Avand** – corporate credit allocation system for *Bank Pasargad*  
   - **Homejance** – healthcare & home services platform (multi-panel system)  
   - **Customer Club Management** – loyalty platform for *Bank Pasargad*  
@@ -21,7 +21,7 @@
 
 ### 🧠 Tech Stack
 
-#### 🎨 Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -30,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-#### ⚙️ Tools & Workflow
+#### Tools & Workflow
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge)
@@ -39,12 +39,12 @@
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
-### 🔭 Research Mode
+### Research Mode
 ![Research Mode](https://img.shields.io/badge/Research%20Mode-ON-purple?style=for-the-badge)
 
 ---
 
-### 🧩 Domain Expertise
+### Domain Expertise
 🏦 **FinTech** • 🏥 **Healthcare Systems** • 🏢 **ERP / CRM Development** • 💳 **Corporate Credit & Loyalty Platforms**
 
 ---
@@ -53,18 +53,18 @@
 - Crafting **beautiful, scalable, data-driven UIs**  
 - Solving complex **architecture and state management** challenges  
 - Building **enterprise apps** that people actually enjoy using  
-- ☕ Coffee + 🎧 Lo-fi beats + long coding nights = bliss  
+- Coffee + Lo-fi beats + long coding nights = bliss  
 
 ---
 
 ### 🌱 Currently Exploring
-- ⚛️ Next.js & Micro-Frontend Architecture  
-- 🔍 Optimizing React Performance at scale  
-- 🧪 Testing (because bugs are loyal friends 🐛)
+- Next.js & Micro-Frontend Architecture  
+- Optimizing React Performance at scale  
+- Testing (because bugs are loyal friends)
 
 ---
 
-### 🎓 Side Quest: Crypto & Research Mode
+### Side Quest: Crypto & Research Mode
 When I'm not building enterprise frontends,  
 I’m probably somewhere deep in a PDF like:
 
@@ -72,9 +72,9 @@ I’m probably somewhere deep in a PDF like:
 > *(yeah, I know… sounds illegal)*
 
 Master's student — currently researching:
-- 🔐 Cryptography
-- ⚡ Zero-knowledge proofs (a.k.a. magic math for privacy)
-- 👾 Post-quantum blockchain (because someone has to protect us from future quantum robots)
+- Cryptography
+- Zero-knowledge proofs (a.k.a. magic math for privacy)
+- Post-quantum blockchain (because someone has to protect us from future quantum robots)
 
 In short:  
 **Frontend by day, cryptography nerd by night.**
