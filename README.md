@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<h1 align="center">Hey there, I'm Ali 👋</h1>
+<h1 align="center">Hey there, I'm Ali</h1>
 <h3 align="center">CS Student & Researcher | Frontend Developer | Building Enterprise Apps with a Smile </h3>
 
 ---
