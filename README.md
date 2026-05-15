@@ -12,7 +12,7 @@
 - Founder of **RADA (Rahyaft Ayandenegar Dade Afarin)** – creating smart, scalable organizational software  
 - Worked on:
   - **Avand** – corporate credit allocation system for *Bank Pasargad*  
-  - **Homejance** – healthcare & home services platform (multi-panel system)  
+  - **Homzhans** – healthcare & home services platform (multi-panel system)  
   - **Customer Club Management** – loyalty platform for *Bank Pasargad*  
   - **Phocus ERP** – modular ERP platform  
   - **CRM/ERP for Machine Sazi Tabriz** – full enterprise solution  
