@@ -49,14 +49,6 @@
 
 ---
 
-### What I Love
-- Crafting **beautiful, scalable, data-driven UIs**  
-- Solving complex **architecture and state management** challenges  
-- Building **enterprise apps** that people actually enjoy using  
-- Coffee + Lo-fi beats + long coding nights = bliss  
-
----
-
 ### Currently Exploring
 - Next.js & Micro-Frontend Architecture  
 - Optimizing React Performance at scale  
